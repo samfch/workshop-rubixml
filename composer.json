@@ -1,0 +1,16 @@
+{
+    "name": "samfch/workshop-rubixml",
+    "description": "Workshop rubixml bimbingan TA",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Sam FCH",
+            "email": "sam@unissula.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "rubix/ml": "dev-master"
+    }
+}
